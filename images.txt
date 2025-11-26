@@ -1,5 +1,5 @@
 nginx
-postgres
+postgres:17
 langfuse/langfuse-worker:3
 langfuse/langfuse:3
 ## 支持私库
