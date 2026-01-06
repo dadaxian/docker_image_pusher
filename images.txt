@@ -1,4 +1,4 @@
-clickhouse-server:23.8
+clickhouse/clickhouse-server:23.8
 #redis:7
 #nginx
 #postgres:17
