@@ -1,4 +1,4 @@
-ankane/pgvector
+ankane/pgvector:pg15-trixie
 #clickhouse/clickhouse-server:23.8
 #redis:7
 #nginx
