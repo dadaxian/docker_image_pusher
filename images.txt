@@ -1,4 +1,5 @@
-pgvector/pgvector:pg15-trixie
+openwebui/open-webui:main
+#pgvector/pgvector:pg15-trixie
 #clickhouse/clickhouse-server:23.8
 #redis:7
 #nginx
