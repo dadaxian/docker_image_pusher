@@ -1,4 +1,4 @@
-openwebui/open-webui:main
+ghcr.io/open-webui/open-webui:main
 #pgvector/pgvector:pg15-trixie
 #clickhouse/clickhouse-server:23.8
 #redis:7
